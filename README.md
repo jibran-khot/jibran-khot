@@ -1,20 +1,105 @@
-# 💫 About Me:
+<h1 align="center">Hey 👋, I'm Jibran Khot</h1>
 
-**👋 Hi, my name is Jibran Khot, and I am an Angular Developer!**
-🔭 **I’m currently working on** Building scalable **Angular & SQL-driven applications** with seamless UI/UX.
-👯 **I’m looking to collaborate on** Innovative **web applications** and **data-driven solutions** that make an impact.
-🤝 **I’m looking for help with** Exploring **cutting-edge SQL optimizations** and **Angular performance tuning**.
-🌱 **I’m currently learning** Advanced **RESTful API integrations**, **cloud-based SQL solutions**, and **Angular best practices**.
-💬 **Ask me about** **Angular, SQL queries, API development, UI/UX optimization**, or anything tech-related!
-⚡ **Fun fact** I can turn **complex database queries** into **blazing-fast** results while still keeping my coffee warm! ☕
+<p align="center">
+  <strong>Angular Developer | Frontend Engineer</strong>
+</p>
 
-## 🌐 Socials:
+<p align="center">
+  Building scalable, maintainable and user-friendly web applications with Angular, TypeScript, REST APIs and SQL.
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/jibran_khot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/jibran-khot) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jibrankhot5@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JibranKhot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/JibranKhot?label=Followers&style=flat" alt="Followers" />
+</p>
 
-# 💻 Tech Stack:
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge\&logo=angular\&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+## 💫 About Me
+
+👋 I'm Jibran Khot, an Angular Developer focused on building clean, maintainable and responsive web applications.
+
+🔭 **Currently working on** strengthening my Angular development skills and building production-style web applications.
+
+🌱 **Currently learning** advanced Angular, TypeScript, REST API integration, RxJS and modern frontend development practices.
+
+💡 **Interested in** scalable frontend architecture, reusable components, performance optimization and clean UI/UX.
+
+🤝 **Open to collaborating on** interesting web applications and developer-focused projects.
+
+💬 **Ask me about** Angular, TypeScript, REST APIs, SQL, frontend development and UI/UX.
+
+⚡ **Fun fact:** I enjoy breaking complex problems down into simple, maintainable pieces of code.
+
+---
+
+## 👨‍💻 What I Do
+
+* Build web applications using Angular and TypeScript
+* Develop reusable and maintainable UI components
+* Integrate REST APIs into frontend applications
+* Work with relational databases and SQL Server
+* Build responsive and user-friendly interfaces
+* Focus on clean code, maintainability and performance
+* Practice and improve Angular fundamentals through hands-on projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Frontend Technologies" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+</p>
+
+REST APIs
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mssql" alt="Microsoft SQL Server" />
+</p>
+
+### Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,netlify" alt="Tools and Platforms" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 Job Hunt OS
+
+A production-style job management application designed to centralize the complete job-search workflow — applications, interviews, recruiters, follow-ups, resumes and job-search activity.
+
+**Tech:** Angular · TypeScript · Node.js · Express · SQL Server · JWT
+
+🔗 **Repository:** Coming soon
+
+---
+
+### 🧠 Angular Core Training
+
+A structured Angular learning repository focused on rebuilding strong manual coding skills through practical, hands-on exercises.
+
+The repository covers Angular fundamentals, TypeScript through Angular, components, services, directives, pipes, forms, RxJS and other core frontend concepts.
+
+**Tech:** Angular · TypeScript
+
+🔗 **Repository:** [Angular Core Training](https://github.com/JibranKhot/angular-core-training)
+
+---
+
+## 📊 GitHub Activity
 
 <table align="center" width="100%">
   <tr>
@@ -74,3 +159,23 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/jibran-khot">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/jibran_khot">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:jibrankhot5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building, learning, and getting better one commit at a time.</i>
+</p>
