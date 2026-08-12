@@ -1,71 +1,68 @@
-<h1 align="center">Jibran Khot</h1>
+<!-- ========================= HERO ========================= -->
 
-<p align="center">
-  <strong>Angular Developer • Frontend Engineer</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  Building scalable, maintainable and user-focused web applications
-  with Angular, TypeScript, REST APIs and SQL.
-</p>
+# 👋 Hey, I'm Jibran Khot
 
-<p align="center">
+### Angular Developer · Frontend Engineer
+
+**I build scalable web applications with clean architecture, thoughtful UI/UX, and maintainable code.**
+
+<p>
   <a href="https://linkedin.com/in/jibran-khot">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jibrankhot5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JibranKhot&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/JibranKhot">
+    <img src="https://img.shields.io/badge/GitHub-JibranKhot-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=JibranKhot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-## 👨‍💻 About
-
-I'm an Angular Developer focused on building reliable and maintainable frontend applications.
-
-My work primarily revolves around Angular, TypeScript, REST API integration, SQL Server and responsive UI development. I enjoy turning business requirements into clean user experiences and maintainable application architecture.
-
-I'm particularly interested in frontend architecture, reusable component design, performance, API-driven applications and writing code that remains understandable as a project grows.
+</div>
 
 ---
 
-## 🧩 Engineering Focus
+## 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+I'm an **Angular Developer and Frontend Engineer** focused on building web applications that are scalable, maintainable, and easy to use.
 
-### Frontend Engineering
+My primary experience is around **Angular, TypeScript, REST APIs, SQL Server, and responsive UI development**. I enjoy working across the application lifecycle — from understanding business requirements and designing UI flows to implementing frontend architecture and integrating backend services.
 
-* Angular application development
-* Standalone component architecture
-* Reusable UI components
-* TypeScript development
-* Reactive programming with RxJS
-* Forms and validation
-* Responsive UI development
-* API-driven applications
+I care about more than simply making an application work. I focus on writing code that is **structured, reusable, testable, and understandable**, while keeping the user experience simple and intuitive.
 
-    </td>
-    <td width="50%" valign="top">
+Currently, I'm putting that mindset into practice through personal projects and deeper Angular engineering work.
 
-### Application Development
+---
 
-* REST API integration
-* SQL Server & relational data
-* Authentication & authorization
-* Application architecture
-* Error handling
-* Performance optimization
-* Maintainable codebases
-* Git-based development workflows
+## ⚡ Engineering Focus
 
-    </td>
-  </tr>
-
-</table>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ANGULAR                                                   │
+│   Component Architecture · Routing · Forms · Services       │
+│                                                             │
+│   TYPESCRIPT                                                 │
+│   Strong Typing · Interfaces · Generics · OOP               │
+│                                                             │
+│   FRONTEND ENGINEERING                                      │
+│   Reusable Components · Responsive UI · UX                  │
+│                                                             │
+│   API INTEGRATION                                            │
+│   REST APIs · Authentication · Error Handling               │
+│                                                             │
+│   DATA                                                       │
+│   SQL Server · Queries · Relational Data                    │
+│                                                             │
+│   ENGINEERING                                                │
+│   Clean Code · Maintainability · Performance · Git           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -77,7 +74,7 @@ I'm particularly interested in frontend architecture, reusable component design,
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
 </p>
 
-### Backend & Data
+### Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,mssql" />
@@ -91,140 +88,123 @@ I'm particularly interested in frontend architecture, reusable component design,
 
 ---
 
-## 🏗️ What I Care About
+## 🏗️ How I Approach Development
 
-I believe good frontend engineering is more than making a page look right.
-
-I focus on:
-
-**Maintainability**
-Writing code that another developer can understand and safely modify.
-
-**Reusable Design**
-Building components and patterns that can be used consistently across an application.
-
-**Separation of Concerns**
-Keeping UI, business logic, data access and application state responsibilities clearly separated.
-
-**Performance**
-Avoiding unnecessary work and designing applications that remain responsive as they grow.
-
-**User Experience**
-Building interfaces that are intuitive, responsive and predictable.
-
-**Practical Architecture**
-Choosing architecture based on the actual needs of the application rather than adding complexity for its own sake.
+| Principle                  | What it means to me                                                     |
+| -------------------------- | ----------------------------------------------------------------------- |
+| **Maintainability**        | Code should remain understandable months after it was written.          |
+| **Reusability**            | Common UI and application patterns should be built once and reused.     |
+| **Separation of Concerns** | Components, services, APIs and data responsibilities should stay clear. |
+| **Performance**            | Avoid unnecessary work and keep applications responsive as they scale.  |
+| **User Experience**        | Technical quality means little if the application is difficult to use.  |
+| **Practical Architecture** | Use the right level of complexity for the actual problem.               |
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Work
 
 ### 💼 Job Hunt OS
 
-A full-stack job management platform designed to manage the complete job-search lifecycle from a single application.
+**A personal job-search management platform designed around the complete application lifecycle.**
 
-The system is designed around real-world workflows including job applications, interview tracking, recruiter interactions, follow-ups, resumes and application status management.
+The goal is to bring applications, interviews, recruiter interactions, follow-ups, resumes and job-search activity into one centralized system.
 
 **Architecture**
 
-`Angular → REST API → Node.js / Express → Repository Layer → SQL Server`
+`Angular → REST API → Node.js / Express → Repository → SQL Server`
 
-**Technology**
+**Stack**
 
 `Angular` · `TypeScript` · `Node.js` · `Express` · `SQL Server` · `JWT`
 
-**Status:** In Development
+**Status:** 🚧 In Development
 
 ---
 
 ### 🧠 Angular Core Training
 
-A structured Angular development repository focused on strengthening manual coding ability through practical implementation rather than relying on generated solutions.
+**A hands-on Angular development repository focused on rebuilding strong manual coding ability.**
 
-The repository covers TypeScript through Angular, components, services, directives, pipes, forms, RxJS and core Angular development patterns.
+The repository contains practical exercises covering TypeScript through Angular, components, services, directives, pipes, forms, RxJS and core Angular development patterns.
 
-**Technology**
+**Stack**
 
 `Angular` · `TypeScript` · `HTML` · `CSS`
 
-🔗 [View Repository](https://github.com/JibranKhot/angular-core-training)
+<p>
+  <a href="https://github.com/JibranKhot/angular-core-training">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=JibranKhot&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
+<div align="center">
 
-```
-<td width="50%" align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=JibranKhot&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    width="100%"
-  />
+<table>
+<tr>
+<td>
+
+<img src="https://github-stats-extended.vercel.app/api?username=JibranKhot&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
 </td>
-```
+<td>
 
-  </tr>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=JibranKhot&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
 </table>
 
 <br>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JibranKhot&theme=tokyo-night&hide_border=true&area=true&height=180"
-    alt="Contribution Activity"
-    width="100%"
-  />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JibranKhot&theme=tokyo-night&hide_border=true&area=true&height=180" width="95%" />
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JibranKhot&theme=tokyonight"
-        alt="Languages by Repository"
-        width="100%"
-      />
-    </td>
+<br><br>
 
-```
-<td width="50%" align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JibranKhot&theme=tokyonight"
-    alt="Languages by Commit"
-    width="100%"
-  />
+<table>
+<tr>
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JibranKhot&theme=tokyonight" />
+
 </td>
-```
+<td>
 
-  </tr>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JibranKhot&theme=tokyonight" />
+
+</td>
+</tr>
 </table>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect
 
-I'm interested in opportunities involving Angular, frontend engineering and building production-quality web applications.
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/jibran-khot">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://linkedin.com/in/jibran-khot">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="mailto:jibrankhot5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:jibrankhot5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p align="center">
-  <i>Build with purpose. Keep it maintainable. Keep improving.</i>
-</p>
+<a href="https://github.com/JibranKhot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Build clean. Think long-term. Keep improving.**
+
+</div>
