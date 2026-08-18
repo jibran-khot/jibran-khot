@@ -1,273 +1,188 @@
 <div align="center">
 
 <img
-src="https://github.com/user-attachments/assets/bfedda50-d689-4694-ba71-7578382835b9"
-width="100%"
-alt="Jibran Khot"
+  src="https://github.com/user-attachments/assets/bfedda50-d689-4694-ba71-7578382835b9"
+  width="100%"
+  alt="Jibran Khot"
 />
 
-<br/><br/>
+<br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Angular+Developer;Frontend+Engineer;Angular+%2B+TypeScript+%2B+SQL;Building+things+that+actually+work."
-alt="Typing introduction"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1100&color=8B5CF6&center=true&vCenter=true&width=720&lines=Angular+Developer+%7C+Frontend+Engineer;Angular+%2B+TypeScript+%2B+SQL;Currently+building+Job+Hunt+OS;Back+to+building+from+scratch."
+  alt="Typing introduction"
 />
 
-<br/><br/>
+<br><br>
 
 <a href="https://github.com/jibran-khot">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://linkedin.com/in/jibran-khot">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://instagram.com/jibran_khot">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="mailto:jibrankhot5@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=jibran-khot&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" />
+<img
+  src="https://komarev.com/ghpvc/?username=jibran-khot&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square"
+  alt="Profile Views"
+>
 
 </div>
 
+<br>
+
 ---
 
-<table width="100%">
+<table>
 <tr>
 
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
-## 👋 Hey, I'm Jibran
+## Hey, I'm Jibran 👋
 
-I'm an **Angular Developer** working mainly with **Angular, TypeScript, SQL Server and REST APIs**.
+I'm an **Angular Developer** from India.
 
-I like building applications where there's more going on than just a pretty screen — dashboards, forms, business workflows, APIs, data and all the little pieces that make an application actually useful.
+Most of my work revolves around **Angular, TypeScript, SQL Server and REST APIs**. I also work with **Node.js and .NET** when the project needs more than just the frontend.
 
-These days I'm spending a lot of time building projects and sharpening my Angular fundamentals by writing the code myself.
+Right now I'm focused on getting really comfortable building Angular applications from a blank file again — and I'm putting that into practice through actual projects.
 
 </td>
 
-<td width="38%" valign="top">
+<td width="40%" align="center">
 
-### `CURRENT STACK`
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&perline=5">
 
-```text
-Angular
-TypeScript
-JavaScript
-RxJS
+<br><br>
 
-Node.js
-Express
-.NET
-
-SQL Server
-
-Git / GitHub
-Figma
-```
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mssql,git&perline=5">
 
 </td>
 
 </tr>
 </table>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,nodejs,express,dotnet,mssql,git,github,figma&perline=12" />
+### I WORK WITH
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,nodejs,express,dotnet,mssql,git,github,figma&perline=12">
+
+<br><br>
+
+`Angular` &nbsp; `TypeScript` &nbsp; `RxJS` &nbsp; `REST APIs` &nbsp; `SQL Server`
 
 </div>
 
+<br>
+
 ---
 
-# ✦ NOW BUILDING
+# 🚧 CURRENTLY BUILDING
 
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-<h2>💼 Job Hunt OS</h2>
+### 💼 Job Hunt OS
 
-<sub>FULL-STACK APPLICATION</sub>
+**A job-search management system I'm building around the way I actually want to manage a job hunt.**
 
-<br/><br/>
+<br>
 
-A job-search management app I'm building around the workflow I actually want to manage.
+| | |
+|---|---|
+| 📋 Applications | Track applications and their stages |
+| 🎤 Interviews | Keep interview rounds and outcomes together |
+| 🤝 Recruiters | Keep recruiter conversations and follow-ups organized |
+| 📄 Resumes | Track which resume was used |
+| 📊 Dashboard | One place to see the whole search |
 
-<br/>
+<br>
 
-**Applications**
-**Interviews**
-**Recruiters**
-**Follow-ups**
-**Resumes**
-**Job Pipeline**
+**Frontend**
 
-<br/><br/>
+`Angular` · `TypeScript`
 
-`Angular` `TypeScript` `Node.js` `Express` `SQL Server` `JWT`
+**Backend**
 
-<br/>
+`Node.js` · `Express`
 
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-8B5CF6?style=flat-square" />
+**Database**
+
+`SQL Server`
+
+**Auth**
+
+`JWT`
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=for-the-badge">
 
 </td>
 
-<td width="50%" valign="top">
+</tr>
+</table>
 
-<h2>🧠 Angular Core Training</h2>
+---
 
-<sub>HANDS-ON ANGULAR REPOSITORY</sub>
+# 🧠 ANGULAR CORE TRAINING
 
-<br/><br/>
+<div align="center">
 
-A repository I'm using to get back to writing Angular code from a blank file instead of relying on generated solutions.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jibran-khot&repo=angular-core-training&theme=tokyonight&hide_border=true" width="480">
 
-<br/>
+<br><br>
 
-**TypeScript**
-**Components**
-**Services**
-**Forms**
-**Directives**
-**Pipes**
-**RxJS**
+I'm using this repository to rebuild my Angular coding muscle by actually writing the code instead of relying on generated solutions.
 
-<br/><br/>
+<br><br>
 
-`Angular` `TypeScript` `HTML` `CSS`
+`TypeScript` · `Components` · `Services` · `Forms` · `Directives` · `Pipes` · `RxJS`
 
-<br/>
+<br><br>
 
 <a href="https://github.com/jibran-khot/angular-core-training">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-18181B?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ✦ SELECTED WORK
-
-<div align="center">
-
-<a href="https://github.com/jibran-khot/Admin-Panel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jibran-khot&repo=Admin-Panel&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/jibran-khot/Universal-Backend-Engine">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jibran-khot&repo=Universal-Backend-Engine&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/jibran-khot/angular-core-training">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jibran-khot&repo=angular-core-training&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/jibran-khot/job-hunt-os-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jibran-khot&repo=job-hunt-os-frontend&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/jibran-khot?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-18181B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-# ✦ GITHUB ACTIVITY
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td width="50%" align="center">
-
-<img
-src="https://github-stats-extended.vercel.app/api?username=jibran-khot&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-width="100%"
-alt="GitHub Stats"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-src="https://github-readme-streak-stats-eight.vercel.app/?user=jibran-khot&theme=tokyonight&hide_border=true"
-width="100%"
-alt="GitHub Streak"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=jibran-khot&theme=tokyo-night&hide_border=true&area=true&height=220"
-width="96%"
-alt="Contribution Activity"
-/>
-
-<br/><br/>
-
-<table width="100%">
-<tr>
-
-<td width="50%" align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibran-khot&theme=tokyonight"
-width="100%"
-alt="Languages by Repository"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibran-khot&theme=tokyonight"
-width="100%"
-alt="Languages by Commit"
-/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# ✦ GITHUB TROPHIES
+# 📈 GITHUB
 
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=jibran-khot&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1"
-width="95%"
-alt="GitHub Trophies"
-/>
+  src="https://github-readme-stats.vercel.app/api?username=jibran-khot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  width="48%"
+>
+
+<img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=jibran-khot&theme=tokyonight&hide_border=true"
+  width="48%"
+>
+
+<br><br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jibran-khot&theme=tokyo-night&hide_border=true&area=true&height=220"
+  width="96%"
+>
 
 </div>
 
@@ -275,20 +190,25 @@ alt="GitHub Trophies"
 
 <div align="center">
 
-### `Angular · TypeScript · APIs · SQL · Coffee`
-
-<br/>
+### LET'S CONNECT
 
 <a href="https://linkedin.com/in/jibran-khot">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:jibrankhot5@gmail.com">
-<img src="https://img.shields.io/badge/SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4C1D95,100:7C3AED&height=100&section=footer" width="100%" />
+<sub>Angular · TypeScript · SQL · APIs · Coffee</sub>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4C1D95,100:7C3AED&height=100&section=footer"
+  width="100%"
+>
 
 </div>
