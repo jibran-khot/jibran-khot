@@ -4,470 +4,248 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=650&lines=Angular+Developer+%7C+Frontend+Engineer;Building+clean+%26+scalable+web+applications;Angular+%2B+TypeScript+%2B+REST+APIs+%2B+SQL;Always+building.+Always+learning." alt="Typing SVG"/>
+
+<br/>
+
 <a href="https://linkedin.com/in/jibran-khot">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://instagram.com/jibran_khot">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:jibrankhot5@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=jibran-khot&label=PROFILE%20VIEWS&color=7F00FF&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=jibran-khot&label=PROFILE%20VIEWS&color=7F00FF&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/jibran-khot?label=Followers&style=flat-square&color=2563EB"/>
 
 </div>
 
 <br/>
 
-## 👨‍💻 About
-
-I'm **Jibran Khot**, an Angular Developer focused on building **scalable, maintainable and user-focused web applications**.
-
-My primary development work revolves around **Angular, TypeScript, REST APIs and SQL Server**, with additional experience across Node.js, .NET and modern development tooling.
-
-I enjoy working across the full development flow — understanding requirements, designing interfaces, structuring applications, integrating APIs, working with data and refining the code until the solution is clean and maintainable.
-
-> **Build it right. Understand what you build. Make it easier to change tomorrow.**
-
 ---
-
-## ⚡ At a Glance
 
 <div align="center">
 
-<table>
+## 🧑‍💻 WHO AM I?
+
+**Angular Developer building real applications, not just tutorials.**
+
+I work primarily with **Angular, TypeScript, REST APIs and SQL Server**, with additional experience across **Node.js and .NET**.
+
+I enjoy taking an idea from:
+
+`Requirement → UI → Architecture → Code → API → Database → Product`
+
+</div>
+
+---
+
+## ⚡ TECH I WORK WITH
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,nodejs,express,dotnet,mssql,git,github,figma&perline=12&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3`
+`Node.js` `Express` `.NET` `SQL Server`
+`Git` `GitHub` `Figma` `Firebase`
+
+</div>
+
+---
+
+# 🚀 WHAT I'M BUILDING
+
+<div align="center">
+
+### 💼 Job Hunt OS
+
+**A full-stack job-search management system built around the actual job-hunting workflow.**
+
+</div>
+
+<table align="center">
 <tr>
+<td>
 
-<td align="center" width="25%">
-<h3>🅰️</h3>
-<strong>Angular</strong>
-<br/>
-<sub>Frontend Development</sub>
+🎯 **Applications**
+
+Track every application through its lifecycle.
+
 </td>
+<td>
 
-<td align="center" width="25%">
-<h3>⌨️</h3>
-<strong>TypeScript</strong>
-<br/>
-<sub>Strongly Typed Applications</sub>
+🎤 **Interviews**
+
+Keep interviews, stages and outcomes organized.
+
 </td>
+<td>
 
-<td align="center" width="25%">
-<h3>🗄️</h3>
-<strong>SQL Server</strong>
-<br/>
-<sub>Data & Queries</sub>
+🤝 **Recruiters**
+
+Track recruiter conversations and follow-ups.
+
 </td>
+<td>
 
-<td align="center" width="25%">
-<h3>⚙️</h3>
-<strong>REST APIs</strong>
-<br/>
-<sub>Application Integration</sub>
+📄 **Resumes**
+
+Know which resume was used for each opportunity.
+
 </td>
-
 </tr>
 </table>
 
-</div>
-
----
-
-## 🧠 Engineering Focus
-
 <div align="center">
 
-`Angular` · `TypeScript` · `RxJS` · `REST APIs` · `SQL Server` · `Node.js` · `C# / .NET`
+`Angular` · `TypeScript` · `Node.js` · `Express` · `SQL Server` · `JWT`
 
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎨 Frontend
-
-* Component-driven development
-* Reusable UI architecture
-* Angular routing
-* Forms & validation
-* RxJS & reactive patterns
-* Responsive interfaces
-* API-driven applications
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Application Engineering
-
-* REST API integration
-* Authentication flows
-* CRUD workflows
-* SQL Server
-* Layered architecture
-* Error handling
-* Clean & maintainable code
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
-
-<br/><br/>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mssql" />
-
-<br/><br/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,firebase,netlify" />
+**🚧 Currently building**
 
 </div>
 
 ---
 
-# 🚀 Featured Work
+# ⭐ PROJECTS
 
 <div align="center">
-
-### Building projects that solve actual problems — not just demonstrate syntax.
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-## 💼 Job Hunt OS
-
-**A full-stack job-search management platform.**
-
-Designed around the real workflow of managing a job search from application to follow-up.
-
-**Core Areas**
-
-* Application pipeline
-* Interview tracking
-* Recruiter interactions
-* Follow-ups
-* Resume management
-* Job-search dashboard
-
-**Architecture**
-
-```text
-Angular
-   ↓
-REST API
-   ↓
-Node.js / Express
-   ↓
-Repository Layer
-   ↓
-SQL Server
-```
-
-**Stack**
-
-`Angular` `TypeScript` `Node.js` `Express` `SQL Server` `JWT`
-
-**Status:** 🚧 In Development
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🖥️ Admin Panel
-
-**A scalable Angular administration panel for e-commerce management.**
-
-Focused on building a structured dashboard with authentication, CRUD workflows and reusable application components.
-
-**Focus**
-
-* Dashboard UI
-* Authentication
-* CRUD operations
-* Modular architecture
-* Data management
-* Responsive interface
-
-**Stack**
-
-`Angular` `TypeScript` `SCSS`
-
-**Status:** 🟢 Public
 
 <a href="https://github.com/jibran-khot/Admin-Panel">
-View Repository →
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jibran-khot&repo=Admin-Panel&theme=tokyonight&hide_border=true"/>
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ⚙️ Universal Backend Engine
-
-**A reusable Node.js backend engine designed to provide a consistent foundation across projects.**
-
-Focused on modular backend architecture and reusable application patterns.
-
-**Focus**
-
-* Modular architecture
-* API foundation
-* Reusable services
-* Consistent project structure
-* Scalable backend patterns
-
-**Stack**
-
-`Node.js` `TypeScript`
-
-**Status:** 🟢 Public
 
 <a href="https://github.com/jibran-khot/Universal-Backend-Engine">
-View Repository →
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jibran-khot&repo=Universal-Backend-Engine&theme=tokyonight&hide_border=true"/>
 </a>
 
-</td>
-
-<td width="50%" valign="top">
-
-## 🧠 Angular Core Training
-
-**Angular fundamentals built through manual implementation.**
-
-A practical repository focused on strengthening Angular and TypeScript fundamentals by writing the code rather than relying on generated solutions.
-
-**Focus**
-
-* TypeScript
-* Components
-* Services
-* Directives
-* Pipes
-* Forms
-* RxJS
-* Angular fundamentals
-
-**Stack**
-
-`Angular` `TypeScript`
+<br/>
 
 <a href="https://github.com/jibran-khot/angular-core-training">
-View Repository →
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jibran-khot&repo=angular-core-training&theme=tokyonight&hide_border=true"/>
 </a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🔍 More From My GitHub
-
-<div align="center">
 
 <a href="https://github.com/jibran-khot/job-hunt-os-frontend">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jibran-khot&repo=job-hunt-os-frontend&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/jibran-khot/csharp-fundamentals">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jibran-khot&repo=csharp-fundamentals&theme=tokyonight&hide_border=true"/>
-</a>
+</div>
+
+---
+
+## 🧠 DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+### Clean Code > Clever Code
+
+### Reusable > Repeated
+
+### Simple Architecture > Unnecessary Complexity
+
+### Understand > Copy
+
+### Build > Talk
 
 </div>
 
 ---
 
-## 🧩 How I Think About Code
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center">
-
-### 🧱 Structure
-
-Keep responsibilities clear.
-
-Components should not become business-logic dumping grounds.
-
-</td>
-
-<td width="33%" align="center">
-
-### ♻️ Reuse
-
-Build patterns that can evolve.
-
-Reusable doesn't mean abstracting everything.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎯 Simplicity
-
-Solve the actual problem.
-
-Complexity should have a reason to exist.
-
-</td>
-
-</tr>
-</table>
-
-<br/>
+# 📊 GITHUB UNIVERSE
 
 <div align="center">
 
-**Clean code isn't about writing more code.
-It's about making the right code easier to understand.**
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td width="50%" align="center">
-
-### 📈 GitHub Stats
-
-<img src="https://github-stats-extended.vercel.app/api?username=jibran-khot&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=jibran-khot&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-### 🟣 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jibran-khot&theme=tokyo-night&hide_border=true&area=true&height=220" width="96%" alt="Contribution Activity"/>
+<img src="https://github-stats-extended.vercel.app/api?username=jibran-khot&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=jibran-khot&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br/><br/>
 
-<table width="100%">
-<tr>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jibran-khot&theme=tokyo-night&hide_border=true&area=true&height=220" width="96%"/>
 
-<td width="50%" align="center">
+<br/><br/>
 
-### 📚 Languages by Repository
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibran-khot&theme=tokyonight" width="100%" alt="Languages by Repository"/>
-
-</td>
-
-<td width="50%" align="center">
-
-### ✍️ Languages by Commit
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibran-khot&theme=tokyonight" width="100%" alt="Languages by Commit"/>
-
-</td>
-
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=jibran-khot&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1" width="95%"/>
 
 </div>
 
 ---
 
-## 🎯 What I'm Building Toward
-
-```text
-Strong Angular Fundamentals
-          ↓
-Advanced Angular Development
-          ↓
-Reactive & Component Architecture
-          ↓
-Production-Ready Applications
-          ↓
-Full-Stack Product Development
-```
-
-I'm less interested in collecting technologies and more interested in **understanding the technologies I use deeply enough to build with them confidently.**
-
----
-
-## 🌐 Let's Connect
+# 🐍 CONTRIBUTION TRAIL
 
 <div align="center">
 
-I'm always interested in **Angular, frontend engineering, useful products and interesting technical problems.**
+<img src="https://raw.githubusercontent.com/jibran-khot/jibran-khot/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 
-<br/>
+</div>
+
+---
+
+## 📚 CODE BY LANGUAGE
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibran-khot&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibran-khot&theme=tokyonight" width="49%"/>
+
+</div>
+
+---
+
+# 🔥 CURRENTLY
+
+<div align="center">
+
+```text
+Angular
+   +
+TypeScript
+   +
+RxJS
+   +
+REST APIs
+   +
+SQL Server
+   ↓
+Production-Ready Applications
+```
+
+**Focused on becoming stronger at the fundamentals while building projects that solve real problems.**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 LET'S CONNECT
 
 <a href="https://linkedin.com/in/jibran-khot">
-<img src="https://img.shields.io/badge/LinkedIn-jibran--khot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jibrankhot5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-jibrankhot5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jibran-khot">
-<img src="https://img.shields.io/badge/GitHub-jibran--khot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### `BUILD • OPTIMIZE • SHIP`
-
-</div>
+### `BUILD • BREAK • DEBUG • REFACTOR • SHIP`
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7F00FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:2563EB,100:00C6FF&height=120&section=footer" width="100%"/>
 
 </div>
